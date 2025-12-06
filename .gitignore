@@ -1,3 +1,7 @@
 .myenv
-travel_advisor\.env
-youtube_heler\.env
+
+# ignore all env files everywhere
+.env
+**/.env
+.env.*
+**/.env.*
